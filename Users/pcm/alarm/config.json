@@ -1,0 +1,8 @@
+{
+  "app_name": "DigitalFortress",
+  "security": {
+    "decoy_active": true,
+    "alarm_sound": true,
+    "max_attempts": 3
+  }
+}
