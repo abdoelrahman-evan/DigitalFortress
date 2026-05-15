@@ -1,0 +1,18 @@
+{
+    "snyk.advanced.autoSelectOrganization": true,
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "code-runner-output",
+        "python"
+    ],
+    "spellright.parserByClass": {
+        "code-runner-output": {
+            "parser": "code"
+        }
+    }
+}
